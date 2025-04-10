@@ -1,0 +1,2 @@
+# quantum-hacks
+First hackathon
